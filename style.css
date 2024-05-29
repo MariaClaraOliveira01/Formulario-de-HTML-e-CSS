@@ -12,6 +12,10 @@
     display:block;
 }
 
+body
+{
+    background-color: #f1ff00;
+}
 fieldset
 {
     background-color:#A7C0DC;
